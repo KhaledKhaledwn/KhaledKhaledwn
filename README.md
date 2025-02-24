@@ -16,12 +16,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledKhaledwn&layout=compact&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhaledKhaledwn&show_icons=true&theme=radical)
 
-### 🏆 GitHub Trophies:
-![Trophies](https://github-profile-trophy.vercel.app/?username=KhaledKhaledwn&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](Your LinkedIn Profile)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](Your Twitter Profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)]
 
 ---
 ⭐️ **Feel free to explore my repositories and drop a star!** ⭐️
