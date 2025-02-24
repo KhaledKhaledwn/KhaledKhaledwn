@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **[Your Project Name](Project Link)**
 - 🌱 I’m learning **[Technology/Languages]**
 - 💬 Ask me about **[Your Expertise]**
-- 📫 Reach me at **[Your Email/LinkedIn]**
+- 📫 Reach me at **[khaled.khaledwn.eng@gmail.com/LinkedIn]**
 
 ### 🛠 Tech Stack:
 ![Languages](https://skillicons.dev/icons?i=js,python,java,c,cpp,html,css,react,nodejs,mongodb,express,git,github,linux,docker)
