@@ -12,12 +12,12 @@
 ![Languages](https://skillicons.dev/icons?i=js,python,java,c,cpp,html,css,react,nodejs,mongodb,express,git,github,linux,docker)
 
 ### 📊 GitHub Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KhaledKhaledwn&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledKhaledwn&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhaledKhaledwn&show_icons=true&theme=radical)
 
 ### 🏆 GitHub Trophies:
-![Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=KhaledKhaledwn&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](Your LinkedIn Profile)
