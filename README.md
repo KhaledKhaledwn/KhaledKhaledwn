@@ -13,12 +13,12 @@
 
 ### 📊 GitHub Stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KhaledKhaledwn&theme=radical)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhaledKhaledwn&show_icons=true&theme=radical)
 
 
 ### 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)]
+[!LinkedIn(https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]
+[!Twitter(https://youtu.be/onUx22pgiBM?si=JwDN0IZJTyA_NeEz?style=for-the-badge&logo=twitter)]
 
 ---
 ⭐️ **Feel free to explore my repositories and drop a star!** ⭐️
