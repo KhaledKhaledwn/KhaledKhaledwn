@@ -1,3 +1,9 @@
+<h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Mahmoud Atro</h1>
+
+
 # 💫 About Me:
 💻 Full-Stack Developer | ASP.NET Core & Angular 🚀<br>I'm a passionate Full-Stack Developer specializing in ASP.NET Core for backend development and Angular for frontend applications. I love building scalable, efficient, and user-friendly web applications that solve real-world problems.
 
